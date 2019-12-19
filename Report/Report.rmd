@@ -82,8 +82,7 @@ The investigators have developed an ethical framework for the sale of complement
 This project evaluated the acceptability and feasibility of implementing an ethical framework for the sale of complementary medicines in community pharmacy developed by the investigators.
 Seventeen community pharmacists participated in four focus groups and six individual interviews.
 There was good representation among participants in terms of gender, years of practice, pharmacy location and script volume.
-<!-- Insert key results and changes
-Test: this is from github!-->
+<!-- Insert key results and changes -->
 
 # Background
 
