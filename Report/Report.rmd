@@ -477,9 +477,9 @@ Participants were more likely to express concern regarding the feasibility of th
 Participant views on the acceptability and feasibility of the framework tended to be informed by how they approached complementary medicines and how they approached evidence.
 The other key determinant was how the participant navigated practice within a retail environment.
 
-The main perceived threat to the acceptability of the framework that was expressed by a small number of participants was the cost impost to pharmacists of implementing the framework when other retailers of complementary medicines are not obligated to provide the same services.
-This view was most strongly expressed by participants who were reactive in relation to complementary medicines and tended to be less evidence-based.
-Within focus groups this view was directly challenged by other participants who felt that it was appropriate for pharmacies to compete on services and cost as opposed to cost alone.
+The main perceived threat to the acceptability of the framework was the cost impost to pharmacists of implementing the framework when other retailers of complementary medicines are not obligated to provide the same services.
+This view was most strongly expressed by participants who were reactive in relation to complementary medicines and described a  less evidence-based approach to practice.
+Within focus groups this view was directly challenged by other participants who felt that it was important for pharmacies to compete on services and cost rather than cost alone.
 Participant views regarding the acceptability and feasibility of the framework are summarised in Figure\ \ref{accfeas}.
 
 ![How participants views on the acceptability and feasibility of the framework different depending on how they approach complementary medicines and evidence \label{accfeas}](files/CMEthics_accfeas.png)
@@ -511,21 +511,72 @@ The following quotes illustrate the back-and-forth between a participant who arg
 
 > I think that having the degree means that ... people come for a higher level of service and understanding than what they can get in the supermarket. And that's part of what differentiates us professionally. And that's part of why it's still called a pharmacy and not a supermarket. I'm comfortable that I would actually be probably more comfortable practising where the TGA just says, "Yes, that is safe to take." And then the pharmacist makes the clinical judgement and says, "Well, this may not be the best product for you." I think that that's literally our goal. (D5P9)
 
-The second threat to the acceptability of the framework is a consequence of the different approaches participants take to evidence-based practice in relation to complementary medicines.
+The second threat to the acceptability of the framework is a consequence of the different approaches participants take to evidence-based practice.
 The proposed framework assumes a shared understanding of what is considered appropriate evidence for the efficacy of complementary medicines.
-Participants who expressed an approach to evidence in complementary medicines that was "less evidence-based" appear not to share that understanding.
-Accepting placebo effects as sufficient evidence of the efficacy of complementary medicines and/or putting considerable weight into the anecdotal experiences of others are approaches to evidence that are incompatible to the approach taken in the framework.
+Participants who expressed an approach to evidence in complementary medicines that was less evidence-based appear to hold a different view.
+Accepting placebo effects as sufficient evidence of the efficacy of complementary medicines and/or putting considerable weight into the anecdotal experiences of others are approaches to evidence that are incompatible with the framework.
 Similarly, for those who take the view that placebo effects and anecdotal reports are sufficient evidence for determining the efficacy of complementary medicine, the proposed framework will be viewed as unacceptable.
 
 
-The importance of taking this into account as a threat to the acceptability of the framework is illustrated in the response participants had 
+The importance of taking this into account is illustrated in the response some participants had to the guidance on complementary medicine provided in the current *Code of ethics for pharmacists*.
+For example, some participants suggested that there were practising in accordance with the guidance provided in the code of ethics on the basis of the purported placebo effects of complementary medicines (see, for example, the third quote in Section\ \ref{approach-to-evidence}).
+Determining appropriate evidence for assessing the effectiveness of complementary medicines is complex and somewhat controversial.
+Some of the considerations include the availability of well-conducted randomized trials, the lack of impetus for such trials given the 
+While it is not necessary (or feasible) to resolve all of these issues for the purposes of the proposed framework, it is necessary to identify some boundaries in relation to approaches to evidence and complementary medicines.
+The findings of this study suggest two such boundaries are the use of placebo effects and anecdotal reports (in other consumers) as a justification for recommending complementary medicines.
 
-The framework adopts an approach to medical evidence that recognises both the importance of well designed trials in providing evidence that taking a complementary medicine produces the expected benefits and a sound scientific understanding of the mechanisms by which the complementary medicine may benefit or cause harm [@Parkkinen2018a].
-
-
-This threat was not explicitly raised by participants but the importance of recognising it can be 
 
 ### Feasibility
+
+Participants tended to be more concerned about the feasibility of the framework as opposed to its acceptability.
+The specific barriers that participants identified, and the kinds of things that would enable participants to overcome the barrier, depended on how participants approached complementary medicines and evidence.
+
+Participants who were "evidence-based" and  "proactive" tended to see the framework as both acceptable and feasible as presented.
+Participants who were "evidence based" and "reactive" expressed concerns about the feasibility of implementing the framework.
+These participants tended to identify local, relatively practical barriers and to identify areas of support that would remedy these concerns.
+The two most consistently identified barriers were the availability of (and confidence with) evidence-based information resources on complementary medicines and staff training.
+Some example quotes highlighting the importance of information resources and training and some of the optimism participants expressed to addressing these barriers:
+
+> Oh. I think it's a very nice framework in an ideal world, and if we are provided with tools and training and the resources to train the staff, I would be very happy to have that in the pharmacy. (D2P2)
+
+> I feel like it would be really helpful if there was a better database to look up interactions and all that type of thing because more often than not, I have to call either the company or look into it really far to make sure it doesn't interact. So maybe extra training in that area like compulsory training, I guess. (D3P4)
+
+> So I think, honestly, I would just be keen to try it out in the shop and see how it actually works. But it's sort of one of those questions. If you change the framework and require pharmacies to do something, some sort of fundamental change in how we provide advice, would that open up the space for a new database to actually provide some money so someone would actually make it? Would that then mean that companies looking to get their products into pharmacy would put more emphasis on evidence and therefore training? So pharmacists wouldn't have to be doing these trainings. You're going to get detailed by companies that are looking to get the best, most evidence-based product into your stores. (D5P9)
+
+The absence of independent evidence-based training for pharmacy support staff was identified as a barrier to implementing the framework.
+The response to this is providing more opportunities for this kind of training. 
+
+> I've got 30 staff, and the idea that there could be more specialised training for people that have that interest [in evidence-based complementary medicines] and that could be another avenue for non-pharmacists into pharmacy careers. Immediately, that's more attractive than going to work at Woolies, where they just sell the stuff en mass for profit?. How would that not be a good thing when we've copped a lot of bad press about some pharmacists? So yeah, definitely. I would be very interested to see if this framework allowed for more of that. (D5P9)
+
+A number of participants identified an increased focus on practitioner-only lines as one way to differentiate pharmacy services in relation to complementary medicines while fulfilling the professional obligations outlined in the framework.
+
+> Well, I feel like there should be, I guess, a shift away from the front-shop selling. So just to distinguish pharmacy from the health food store, so other things that people just see on TV or things that people can buy without talking to a pharmacist or talking to someone that's been trained in complementary medicines. So there's the idea of what we've got, the pharmacy, with labelling it, even though it's not necessarily a dangerous product, but just something that at least requires a consult from the first go. Not every time but just from the initial, first-selling to them so they know exactly why they're taking it, rather than just they've been taking it for 10 years. And if we said, "Well, this is a better product, a better form of calcium or whatever it might be," at least that way they can think of their complementary medicines along the same lines as their regular medications. So they still put some value on it, and they don't just look for the cheapest option or the most convenient, necessarily, but something that they get more value out of. (D7P11)
+
+Participants who described their practice in a way that was less evidence based tended to agree with the barriers and facilitators identified above as well as express additional concerns regarding the feasibility of implementing the framework.
+Participants who were "proactive" and "less evidence-based" tended to see the framework as acceptable though idealistic, and suggest that it could only be implemented if there were significant system  changes made to support the framework.
+Participants who were "reactive" and "less evidence-based" were more likely to view the framework as both unacceptable and infeasible.
+These participants had significant concerns about cost implications.
+The system changes that each of these groups of participants suggested were similar.
+While some of these suggestions were also endorsed or suggested by participants who described an evidence-based approach to practice, they were more commonly suggested by participants who described a less evidence-based approach to practice.
+Suggestions included ensuring all pharmacies implemented the framework in a similar way (perhaps taking a regulatory approach to assessing compliance with the framework) and making changes to the way the complementary medicines were regulated such that there were tighter restrictions on the availability of complementary medicines. 
+<!-- (thereby avoiding creating a two-tiered market due to the costs associated with pharmacists meeting the responsibilities of the framework). -->
+
+> ...[G]etting all the pharmacies on the same page. If you've got pharmacies that are run by corporations and banner groups that are more for-profit versus small community pharmacies that are trying to provide a service. You've got to have these frameworks that are enforceable, maybe through QCPP or a PBS listing, and make sure that everyone does the same things and stocks the same products and doesn't stock the same products based on evidence. (D7P12)
+
+> The next thing, I think, would be TGA. If they're approving it, but then it's not evidence based, then consumers will get confused because they would say, "Oh, but then it's approved by TGA, so it must be all right or evidence based." (D10P17)
+
+> Why should it be up to us as pharmacists? Why shouldn't the TGA---when it goes to them in the first place to be approved, why is it even getting to us? Why are we required to make the decision? Why haven't TGA done their job? (D5P7)
+
+
+<!--  NOTE: some things I haven't discussed
+
+* Traffic light system
+*  -->
+
+## Recommendations
+
+<!-- The framework adopts an approach to medical evidence that recognises both the importance of well designed trials in providing evidence that taking a complementary medicine produces the expected benefits and a sound scientific understanding of the mechanisms by which the complementary medicine may benefit or cause harm [@Parkkinen2018a]. -->
+
 
 # References
 

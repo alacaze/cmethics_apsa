@@ -55,7 +55,7 @@ $endif$
 \usepackage[backend=biber,style=authoryear-comp,natbib,sortcites=none,autopunct=true]{biblatex}
 \renewcommand*{\nameyeardelim}{\addspace}
 
-$endif$
+% $endif$
 $if(listings)$
 \usepackage{listings}
 $endif$
