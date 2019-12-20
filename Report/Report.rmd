@@ -315,7 +315,7 @@ Participants were less likely to agree with statements regarding their possessio
 
 ## Key themes 
 
-The focus groups provided rich information on how pharmacists approached their practice in relation to complementary medicines, the facilitators and barriers to this practice and their perceptions of the framework. 
+The focus groups provided rich information on how pharmacists approached their practice in relation to complementary medicines, their perceptions of the framework and the facilitators and barriers to implementing the framework. 
 Thematic saturation occurred after 3 focus groups and 4 interviews, additional focus groups and interviews helped to explore and confirm key findings.
 Three main themes emerged from the focus groups and interviews.
 These themes are summarised in Table 3.
@@ -324,9 +324,11 @@ The third theme, *Navigating practice in a retail environment*, represents the r
 
 \input{fig_tab/tab_themes.tex}
 
+<!-- TODO: 20/12/2019 fix alignment -->
+
 The ways in which participants *approached complementary medicines*, *approached evidence*, and *navigated practice in a retail environment* inform how they viewed their responsibilities in relation to complementary medicines within the context of community pharmacy practice and their views on the acceptability and feasibility of the proposed framework.
-Each of these themes are briefly introduced in this section.
-Further discussion is then provided regarding how participant responses within these themes addresses the objectives of the project.
+Each of these themes are briefly introduced below.
+Subsequent sections provide further discussion regarding how participant responses within these themes addresses the objectives of the project.
 Understanding these themes, and the ways in which participants varied within the themes provide insight into the *context* (Section \ref{context}) of community pharmacy practice in relation to complementary medicines, and the *acceptability* and *feasibility* of the framework as perceived by the participants (Section \ref{acceptability-and-feasibility-of-the-framework}).
 
 ### Approach to complementary medicines
@@ -336,7 +338,7 @@ These participants tended to initiate discussion regarding complementary medicin
 
 > Pharmacists are becoming more involved than before. People are trusting pharmacists more. They always check their complementary medicine. I think, from what I remember five years ago, people were just picking it up. They were thinking that, "That's just a supplement," but I think the awareness is more than before among people. So they always come and ask, "Oh, is this one safe?" or, "What should I take?" I think now, lots of pharmacists are always checking things for them. (D1P1)[^1]
 
-Some participants worked in community pharmacies set-up to provide specialist advice on practitioner-lines of complementary medicines.
+Some participants worked in community pharmacies set-up to provide specialist advice on  complementary medicines, including the use of practitioner-lines.
 
 > I work in a small community pharmacy. I probably consider myself a integrated pharmacist. We have complementary medicines in three different areas similar to the rest of your medicines, like S2s, S3s. So we've got some out in the front shop, which I consider your [day-to-day] vitamins, like your supermarket lines. They're more lines that are more for patients to choose and that sort of thing if they want to self-select. If they go for advice from a pharmacist or staff member, we'd probably go for something a bit better quality. So we've got some in the S2 section which are, I guess, better quality practitioner ranges. And then we've got your other ones in your S3 areas which are ranges that do require a consult or a prescription. So a lot of them are prescribed by some of our doctors as well. (D7P13)
 
@@ -383,7 +385,7 @@ Here, for example, is one of the participants suggesting that most pharmacists t
 
 > I would think in the most part people are very reactive. I don't know that people would proactively engage in conversations a lot in my experience. But I think if they were asked, then they would provide evidence-based information to the best of their knowledge. (D6P10)
 
-Where participants exist on these spectra informed their response to a variety of topics regarding the sale of complementary medicines in community pharmacy, including the role of naturopaths, practitioner-only products and the proposed framework.
+Where participants exist on these spectra informed their response to a variety of topics regarding the sale of complementary medicines in community pharmacy, including the role of naturopaths, the availability and confidence the participant had with regard to information resources, practitioner-only products and the proposed framework.
 
 ![Participants tended to vary according to how they approached complementary medicines and how they approached evidence \label{context3}](files/CMEthics_context3.png)
 
@@ -419,14 +421,14 @@ These views are summarised in Figure\ \ref{fig_context2}.
 
 Participants expressed a range of attitudes in relation to the role of naturopaths in community pharmacy.
 Participants with a greater focus on evidence-based practice tended see the benefits in having a naturopath in-store that shared that focus.
-However, only some of these same participants, found that the naturopaths they worked with had an evidence-based focus.
+However, only some of these participants found that the naturopaths they worked with had an evidence-based focus.
 
 > My take on it is, surely pharmacists and naturopaths should, essentially, have the same information, the same evidence. We should come to the same conclusions. Now there's going to be better and perhaps not so great professionals in both industries. There's going to be differing opinions, but that's just healthy science. Surely we should cooperate. There's definitely room for both, and there's definitely room for businesses that see the value of a great naturopath.... (D5P9)
 > 
 > ...[I]s that the experience you've had, that naturopaths are coming from the same perspective? (AL)
 > 
 > Personally, the one that I had, absolutely not.... 
-> The guy, if he didn't know he would just make it up. And I do not run that sort of pharmacy, so that immediately rubbed me the wrong way.
+> The guy, if he didn't know he would just make it up. And I do not run that sort of pharmacy, so that immediately rubbed me the wrong way. (D5P9)
 
 A common source of contention for participants with a focus on evidence-based practice, was the tendency of naturopaths to recommend homeopathy.
 
@@ -438,7 +440,7 @@ Some of these participants also noted the benefits that having a good naturopath
 
 > The naturopaths have done the studies of all the herbs and everything else where the pharmacists just get a basic top knowledge. So I think that the naturopaths know a lot more because they've been taught and they've had to do research. Whether we're getting the same, I don't think pharmacists have the in-depth knowledge to go deeply into all the herbs and everything else, all the complementary medicines. So some would, but at this point in time, I don't see any training out there for pharmacists to help their knowledge in depth. So I would say the naturopath has a lot more than the pharmacists. But working together - we have the drug knowledge; they have the complementary knowledge - helping people to live a better life combined would be awesome. (D8P14)
 
-...
+> ...
 
 > We used to have a naturopath but they're really hard to get and keep. I know that one of our other stores has a naturopath and we will, quite often, ring and ask them for advice. I think that they have a lot more knowledge in this area. And if you can get one into store, it can boost your sales considerably and boost the confidence that people have in that area because they do have that knowledge. And then backing them up if they have questions with medications and things like that, the pharmacist can back them up. But I think that if you can get a naturopath you can develop your complementary medicine area really quite nicely. (D8P14)
 
@@ -474,8 +476,9 @@ Most participants felt the framework was acceptable: that it accurately captured
 Participants were more likely to express concern regarding the feasibility of the framework.
 Participant views on the acceptability and feasibility of the framework tended to be informed by how they approached complementary medicines and how they approached evidence.
 The other key determinant was how the participant navigated practice within a retail environment.
+
 The main perceived threat to the acceptability of the framework that was expressed by a small number of participants was the cost impost to pharmacists of implementing the framework when other retailers of complementary medicines are not obligated to provide the same services.
-This view was expressed by participants who were reactive in relation to complementary medicines and tended to be less evidence-based.
+This view was most strongly expressed by participants who were reactive in relation to complementary medicines and tended to be less evidence-based.
 Within focus groups this view was directly challenged by other participants who felt that it was appropriate for pharmacies to compete on services and cost as opposed to cost alone.
 Participant views regarding the acceptability and feasibility of the framework are summarised in Figure\ \ref{accfeas}.
 
@@ -489,7 +492,7 @@ These participants saw the framework as a being closely aligned with their pract
 
 > I think generally pharmacists are time poor and stressed and overburdened, so anything that can make something more simplified and streamlined with clear-cut expectations is useful. (D7P12)
 
-...
+> ...
 
 > I would say [the framework is acceptable], particularly with, yeah, treating it along the lines of an S2 or an S3. So front-shop staff can talk to the patients about it. If there's any further queries, the pharmacist can be involved, but they don't automatically have to come down and talk to them if it's not something that there's any questions about. (D7P11)
 
@@ -497,24 +500,30 @@ Several participants provided an argument along the lines of the public health a
 
 > I think the reason that pharmacies should sell their complementary medicine is not because there is a market. I think people, instead of going to the health food store to get their [comple?] medicine, they should come to the pharmacy because there is a better chance that the pharmacies can find out if there's any interaction for people with some actual medications. But I know most of my customers. I know exactly what they are taking. If they come and someone on warfarin asks me for some complementary medication, I just quickly before going and checking their medical history, I know that that's not the right thing to give to the person. But if that person goes to the health food store and buy it there, there is no way that they can figure it out. So I think they should be always at the pharmacy because people should think to go to pharmacy to get their complementary medicine because that way they are going to be protected and lots of trauma is going to be stopped. (D1P1)
 
-Two perceived threats to acceptability were identified in the focus groups and interviews.
+Two threats to acceptability were identified in the focus groups and interviews.
 The primary perceived threat to the acceptability of the framework was that it permits a "two-tiered system"  for the sale of complementary medicines.
 The framework identifies responsibilities for pharmacies selling complementary medicines that are not expected of other retailers.
 This point was raised in several focus groups and interviews.
-It was most explicitly discussed in focus groups (D5).
 The following quotes illustrate the back-and-forth between a participant who argues the framework is not acceptable due to the differential cost it imposes on community pharmacies and a second participant who argues that part of being a pharmacist involves such obligations.
 
-> I would say consumers mostly view [complementary medicines] as an __item of commerce__. You buy them like you buy bread and milk, in some instances, for some of them. So you’ve now imposed this cost on us providing evidence, but in order to do that, we have to mark the product up more. Then you’ve got this __two-tiered system__. (D5P7)
+> I would say consumers mostly view [complementary medicines] as an item of commerce. You buy them like you buy bread and milk, in some instances, for some of them. So you’ve now imposed this cost on us providing evidence, but in order to do that, we have to mark the product up more. Then you’ve got this two-tiered system. (D5P7)
 
 
-> I think that having the degree means that ... people come for a __higher level of service__ and understanding than what they can get in the supermarket. And that's part of what differentiates us professionally. And that's part of why it's still called __a pharmacy and not a supermarket__. I'm comfortable that I would actually be probably more comfortable practising where the TGA just says, "Yes, that is safe to take." And then the pharmacist makes the clinical judgement and says, "Well, this may not be the best product for you." I think that that's literally our goal. (D5P9)
+> I think that having the degree means that ... people come for a higher level of service and understanding than what they can get in the supermarket. And that's part of what differentiates us professionally. And that's part of why it's still called a pharmacy and not a supermarket. I'm comfortable that I would actually be probably more comfortable practising where the TGA just says, "Yes, that is safe to take." And then the pharmacist makes the clinical judgement and says, "Well, this may not be the best product for you." I think that that's literally our goal. (D5P9)
+
+The second threat to the acceptability of the framework is a consequence of the different approaches participants take to evidence-based practice in relation to complementary medicines.
+The proposed framework assumes a shared understanding of what is considered appropriate evidence for the efficacy of complementary medicines.
+Participants who expressed an approach to evidence in complementary medicines that was "less evidence-based" appear not to share that understanding.
+Accepting placebo effects as sufficient evidence of the efficacy of complementary medicines and/or putting considerable weight into the anecdotal experiences of others are approaches to evidence that are incompatible to the approach taken in the framework.
+Similarly, for those who take the view that placebo effects and anecdotal reports are sufficient evidence for determining the efficacy of complementary medicine, the proposed framework will be viewed as unacceptable.
 
 
+The importance of taking this into account as a threat to the acceptability of the framework is illustrated in the response participants had 
+
+The framework adopts an approach to medical evidence that recognises both the importance of well designed trials in providing evidence that taking a complementary medicine produces the expected benefits and a sound scientific understanding of the mechanisms by which the complementary medicine may benefit or cause harm [@Parkkinen2018a].
 
 
-<!-- concern:
-
-> Yeah. I think we need to think about it a lot more because we're making things harder and harder for pharmacists and yet supermarkets can do what they want. And business is very hard for small pharmacists. (D2P2) -->
+This threat was not explicitly raised by participants but the importance of recognising it can be 
 
 ### Feasibility
 
