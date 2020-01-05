@@ -4,10 +4,11 @@ title: Pharmacist responsibilities when selling complementary medicines
 #     - Adam La Caze
 #     - Amber Salman Popattia
 #     - Laetitia Hattingh
-# date: \today
+# date: "`r format(Sys.time(), '%d %B, %Y')`"
 bibliography: Report.bib
 # csl: rsap.csl
-csl: /Users/uqalacaz/Dropbox/Bibliography/CSL/apa.csl
+# csl: /Users/uqalacaz/Dropbox/Bibliography/CSL/apa.csl
+csl: /Users/adam/Dropbox/Bibliography/CSL/apa.csl
 output:
     pdf_document:
         template: comment.latex
@@ -66,7 +67,8 @@ options(tinytex.clean = FALSE)
 This is a draft report for the project *Evaluating the acceptability and feasibility of an ethical framework for the sale of complementary medicines in community pharmacy* funded by an APSA Research Grant 2019.
 
 \bigskip
-\textbf{Document}: \vers
+__Document__: `r system("git rev-parse --short HEAD", intern = TRUE)` (git commit; [repository](https://github.com/alacaze/cmethics_apsa)) \hfill `r format(Sys.time(), '%d %B, %Y')`
+
 \newpage 
 
 \tableofcontents
@@ -573,10 +575,28 @@ Suggestions included ensuring all pharmacies implemented the framework in a simi
 * Traffic light system
 *  -->
 
-## Recommendations
+# Conclusions & recommendations
 
 <!-- The framework adopts an approach to medical evidence that recognises both the importance of well designed trials in providing evidence that taking a complementary medicine produces the expected benefits and a sound scientific understanding of the mechanisms by which the complementary medicine may benefit or cause harm [@Parkkinen2018a]. -->
 
+The *Framework for pharmacist responsibilities when selling complementary medicines* provides specific guidance to pharmacists on fulfilling their responsibilities when selling complementary medicines.
+The framework seeks to address current gaps in the professional and academic literature with regard to the availability of specific professional guidance supported by an explicit theoretical approach.
+It balances pharmacist responsibilities to providing evidence-based health care, to promote positive health outcomes and to respect consumer health beliefs and preferences.
+The study findings suggest that the proposed framework will be acceptable to most pharmacists and is feasible to implement with some targeted support.
+
+The strengths of the study include the variation present in the demographic details of the participants, the focus groups provided a way to explore group norms in relation to professional responsibilities when selling complementary medicines as well as to discuss and explore proposed ethical framework, and the qualitative methods adopts permitted an in-depth examination of how the participants approached complementary medicines and the framework.
+Some of the limitations of the study arise due to the methods used.
+Different methods with a larger representative sample of pharmacists would be required to estimate the prevalence of different approaches to complementary medicines in Australian community pharmacy (e.g. "evidence-based", "proactive", etc).
+Further, the study did not include consumers or pharmacy support staff.
+While not specifically in relation to proposed ethical framework, the perspectives of these groups have been explored elsewhere [@Iyer2016a].
+
+Recommendations:
+
+* Move participants towards the upper right quadrant ("EBP", "proactive")
+  - Support regarding information resources
+  - Training: for pharmacists and for pharmacy support staff
+    + Pharmacists: use current skills (not become naturopaths)
+    + Pharmacy support staff: independent evidence-based training
 
 # References
 
