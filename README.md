@@ -14,4 +14,6 @@ See `Report/Report.rmd`
 
 - [ ] Write executive summary
 - [ ] Fix intro paras
-- [ ] Consider deleting or truncating 'Context'
+- [ ] Consider deleting or truncating 'Context' (cut down following commit 5494f74)
+
+## Changes
