@@ -76,18 +76,39 @@ __Version__: [`r system("git rev-parse --short HEAD", intern = TRUE)`](https://g
 
 \newpage
 
-# Synopsis
+# Executive Summary {-}
 
-Many consumers choose to use complementary medicines and frequently purchase their complementary medicines from community pharmacy.
-Pharmacists tend to vary in their approach to the sale of complementary medicines and recent media reports suggest that some pharmacies are failing to meet community expectations regarding the advice they provide.
 There is a need for clearer guidance for pharmacists regarding their responsibilities when selling complementary medicines.
-The investigators have developed an ethical framework for the sale of complementary medicines in community pharmacy.
-This project evaluated the acceptability and feasibility of implementing an ethical framework for the sale of complementary medicines in community pharmacy developed by the investigators.
+This project introduces an ethical framework for the sale of complementary medicines in community pharmacy, and then evaluates the acceptability and feasibility of implementing the framework in practice.
+
+The ethical framework was developed using principle-based ethics and consists in (i)  a public health argument for having pharmacists involved in the sale of complementary medicines and (ii) the specific responsibilities that pharmacists need to meet to make a positive contribution to health outcomes by selling complementary medicines.
+
 Seventeen community pharmacists participated in four focus groups and six individual interviews.
 There was good representation among participants in terms of gender, years of practice, pharmacy location and script volume.
 <!-- TODO: Insert key results and changes -->
+The majority of participants found the framework was acceptable for practice and was feasible for implementation with some targeted support.
+Participants tended to differ in how proactive they were in relation to selling and providing advice on complementary medicines, how they interpreted evidence in relation to complementary medicines, and how they navigated practice within the retail environment of community pharmacy.
 
-# Background
+Some participants expressed concern that the framework put the additional responsibilities and associated costs on pharmacists selling complementary medicines when compared to alternative outlets.
+However, the majority of participants felt that the additional responsibilities were appropriate and felt that pharmacies compete in terms of the services they provide in addition to cost.
+Participants identified two important areas for targeted support in implementing the framework: additional guidance and access to evidence-based information resources on complementary medicines and independent evidence-based education and training on complementary medicine for pharmacists and pharmacy support staff.
+
+The *Framework for pharmacist responsibilities when selling complementary medicines* addresses an important gap in providing specific professional guidance to pharmacists when selling complementary medicines.
+The results of the study demonstrate that the framework will be acceptable to most pharmacists and is feasible to implement with targeted support. 
+
+
+
+
+
+
+<!-- * Approach complementary medicines: some participants were proactively involved in selling complementary medicines and providing advice, other participants were more reactive in their approach, frequently relying on support staff to provide advice on complementary medicines.
+* Approach evidence: most participants expressed a commitment to evidence-based practice, but some participants expressed views inconsistent with evidence-based practice in relation to complementary medicines. These participants tended to emphasise the importance of placebo effects and relied heavily on anecdotal evidence.
+* Navigate practice in a retail environment: all participants recognised that they worked in a retail environment and sought to ensure they met they professional obligations within this environment. Participants tended to differ -->
+
+
+\newpage
+
+# Introduction
 
 
 <!-- TODO: this para needs work 11/12/2019 -->
@@ -99,13 +120,11 @@ clear recognition that pharmacists should (i) support consumer choice
 and (ii) provide advice that is informed by evidence [@InternationalPharmaceuticalFederation2014; @PSA2017].
 There is,
 however, very little guidance on what to do when these two principles
-conflict [@SalmanPopattia2018].
+conflict.
 The conflict arises because many complementary medicines lack
 rigorous evidence of effectiveness and yet can cause harm through
 adverse effects, drug interactions and delayed treatment [@Myers2004; @Izzo2009].
-In the absence of evidence of benefit,
-evidence-based guidance suggests that pharmacists should avoid selling
-complementary medicines [@Ernst1996].
+<!-- In the absence of evidence of benefit, evidence-based guidance suggests that pharmacists should avoid selling complementary medicines [@Ernst1996]. -->
 <!-- But removing complementary medicines from community pharmacy removes the opportunity for pharmacists to support consumers in the safe use of complementary medicines. -->
 Recent reports suggest that pharmacists are failing to meet community expectations regarding the advice they provide on complementary medicines [@Bray2017; @Thompson2017; @Arnold2016; .@King2017]
 
@@ -146,6 +165,7 @@ defending the routine sale of complementary medicines that lack evidence
 of efficacy in community pharmacy.
 
 Salmon Popattia and La Caze have developed an ethical framework that provides specific guidance to pharmacists regarding their responsibilities when selling complementary medicines.
+The framework seeks to identify the responsibilities pharmacists must meet in order to ensure the sale of complementary medicines in community pharmacy support good consumer health outcomes.
 An overview of the framework is provided below.
 
 # A framework for pharmacist responsibilities when selling complementary medicines
@@ -181,9 +201,7 @@ In particular, pharmacists have excellent skills in being able to identify and r
 Pharmacists tend to focus on this role in relation to complementary medicines and consumers frequently identify this support as one of the drivers for purchasing complementary medicines from community pharmacies [@Olatunde2010;@Kanjanarach2011].
 
 The combination of these points provides a *prima facie* argument in support of the sale of complementary medicines in community pharmacy.
-However, for the argument to be compelling pharmacists and pharmacy support staff need to be proactive in providing evidence-based advice to consumers.
-This is not always the case.
-Some pharmacists are hesitant to discuss complementary medicines with consumers, and some provide inaccurate or misleading information regarding the likely benefits of complementary medicines [@SalmanPopattia2018;@Arnold2016;@Bray2017].
+However, some pharmacists are hesitant to discuss complementary medicines with consumers, and some provide inaccurate or misleading information regarding the likely benefits of complementary medicines [@SalmanPopattia2018;@Arnold2016;@Bray2017].
 <!-- A limitation of this argument, however, is that pharmacists are not always proactive in providing advice regarding the safe use of complementary medicines, and sometimes provide inaccurate or misleading information regarding the likely benefits of complementary medicines [@SalmanPopattia2018;@Arnold2016;@Bray2017]. -->
 The specific responsibilities of pharmacists when selling complementary medicines outlined below seek to address these issues.
 The framework identifies the responsibilities that pharmacists must
@@ -204,7 +222,7 @@ Further advice regarding the responsibilities outlined in the framework are avai
 
 
 
-\input{fig_tab/tab_framework.tex}
+\input{fig_tab/tab_framework_20200203.tex}
 
 <!-- 
 1. Pharmacists should provide evidence-based recommendations to the consumers regarding complementary medicines
@@ -218,7 +236,7 @@ Further advice regarding the responsibilities outlined in the framework are avai
 <!-- In order for the framework to make a contribution to pharmacy practice, the guidance it provides must be accepted and implemented by community pharmacists.
 This requires consultation with community pharmacists in order to identify the acceptability and feasibility of the guidance and to identify any areas of support that may be required to implement the framework. -->
 
-The __specific aim__ of this project is to evaluate the acceptability and feasibility of the proposed ethical framework for
+The __specific aim__ of this project was to evaluate the acceptability and feasibility of the proposed ethical framework for
 the sale of complementary medicines in community pharmacy.
 The project also sought to identify any barriers to the acceptance and/or implementation of the framework in community pharmacy.
 
@@ -259,7 +277,7 @@ hours using video-conferencing software, Zoom.
 Conducting focus groups via video-conference provided an opportunity to recruit participants from a large geographical area.
 <!-- Challenges include ensuring engagement from participants and adequate interaction within the group. -->
 A number of strategies were employed to support the success of conducting the focus group in an online environment, these included seeking to arrange groups of 4--6 participants (limiting larger groups), enabling video feeds and offering alternatives for those with lower internet speeds [@Gaiser2017].
-<!-- NOTE: how? -->
+<!-- NOTE: Amber, what are you doing? -->
 
 Participants received information about the framework prior to the workshop and were asked to complete a short pre-workshop survey.
 The objectives of the workshops were 
@@ -293,7 +311,7 @@ AL and ASP then identified and refine themes individually first, and then as a g
 
 All three investigators have experience in pharmacy ethics. 
 AL has experience in qualitative research, facilitation of online groups and research and teaching in ethical reasoning and decision-making in pharmacy practice.
-ASP has a background in nursing and bioethics and developed the ethical framework as part of PhD.
+ASP has a background in nursing and bioethics and developed the ethical framework as part of her PhD.
 LH has experience in health law and ethics and qualitative research.
 LH was involved in development of the Pharmaceutical Society of Australia *Code of ethics for pharmacists*.
 
@@ -314,7 +332,7 @@ The presurvey questions provide a snapshot of the participants views about compl
 Most participants agreed with statements regarding providing advice to consumers about complementary medicines as being part of their role, and feeling positive about the advice they give to consumers regarding complementary medicines.
 Participants were less likely to agree with statements regarding their possession of the necessary knowledge and skills in relation to complementary medicines, and a statement regarding possessing the necessary time and resources to help consumers with complementary medicines.
 
-![Results of the presurvey. Statements are ordered by the percentage of agreement of the participants.](fig_tab/presurvey.png)
+![Results of the presurvey. Statements are ordered by the percentage of agreement of the participants. TODO: NEED TO WORK ON FIGURE](fig_tab/presurvey.png)
 
 <!-- ```{r echo=FALSE, eval=TRUE, message=FALSE, warning=FALSE, tidy=TRUE, results=TRUE, error=FALSE, fig.caption='Results of the presurvey. Statements are ordered by the percentage of agreement of the participants.', out.width='12cm'}
 
@@ -327,7 +345,8 @@ knitr::include_graphics('fig_tab/presurvey.png')
 ## Key themes 
 
 The focus groups provided rich information on how pharmacists approached their practice in relation to complementary medicines, their perceptions of the framework and their views regarding the facilitators and barriers to implementing the framework in practice. 
-Thematic saturation occurred after 3 focus groups and 4 interviews, additional focus groups and interviews helped to explore and confirm key findings.
+A number of themes were consistently discussed in the focus groups and interviews.
+Reviewing transcripts following the analysis, thematic saturation occurred after 3 focus groups and 4 interviews, additional focus groups and interviews helped to explore and confirm key findings.
 Three main themes emerged from the focus groups and interviews.
 These themes are summarised in Table 3.
 The first two themes represent spectra on which participants differed: *Approach to complementary medicines (proactive--reactive)* and *Approach to evidence*.
@@ -369,7 +388,7 @@ For some participants, a reactive role towards complementary medicines was seen 
 ### Approach to evidence
 
 Participants also varied in their approach to evidence.
-Most, if not all, participants explicitly endorsed "evidence-based practice" in relation to complementary medicines, but what participants took this to mean and how it related to their day-to-day practice tended to differ.
+Most participants explicitly endorsed "evidence-based practice" in relation to complementary medicines, but what participants took this to mean and how it related to their day-to-day practice tended to differ.
 
 Many participants described their practice in a way that is consistent with evidence-based practice while also recognising some of the challenges.
 
@@ -564,7 +583,7 @@ Some example quotes highlighting the importance of information resources and tra
 The absence of independent evidence-based training for pharmacy support staff was identified as a barrier to implementing the framework.
 The response to this is providing more opportunities for this kind of training. 
 
-> I've got 30 staff, and the idea that there could be more specialised training for people that have that interest [in evidence-based complementary medicines] and that could be another avenue for non-pharmacists into pharmacy careers. Immediately, that's more attractive than going to work at Woolies, where they just sell the stuff en mass for profit?. How would that not be a good thing when we've copped a lot of bad press about some pharmacists? So yeah, definitely. I would be very interested to see if this framework allowed for more of that. (D5P9)
+> I've got 30 staff, and the idea that there could be more specialised training for people that have that interest [in evidence-based complementary medicines] and that could be another avenue for non-pharmacists into pharmacy careers. Immediately, that's more attractive than going to work at Woolies, where they just sell the stuff en mass for profit. How would that not be a good thing when we've copped a lot of bad press about some pharmacists? So yeah, definitely. I would be very interested to see if this framework allowed for more of that. (D5P9)
 
 A number of participants identified an increased focus on practitioner-only lines as one way to differentiate pharmacy services in relation to complementary medicines while fulfilling the professional obligations outlined in the framework.
 
@@ -597,15 +616,14 @@ Suggestions included ensuring all pharmacies implemented the framework in a simi
 
 The *Framework for pharmacist responsibilities when selling complementary medicines* provides specific guidance to pharmacists on fulfilling their responsibilities when selling complementary medicines.
 The framework seeks to address current gaps in the professional and academic literature with regard to the availability of specific professional guidance supported by an explicit theoretical approach.
-It balances pharmacist responsibilities to providing evidence-based health care, to promote positive health outcomes and to respect consumer health beliefs and preferences.
+It balances pharmacist responsibilities for promoting positive health outcomes and respecting consumer health beliefs with recognition of the consumer practices in relation to complementary medicines, the regulation of these products and the roles that pharmacists play in providing advice on these products.
 The study findings suggest that the proposed framework will be acceptable to most pharmacists and is feasible to implement with some targeted support.
 
 <!-- The focus groups provided a way to explore group norms in relation to professional responsibilities when selling complementary medicines as well as to discuss and explore proposed ethical framework. -->
 The strengths of the study include asking participants to respond to specific advice on the responsibilities of pharmacists when selling complementary medicines, the variation present in the demographic details of the participants, and the features of the qualitative methods that permit an in-depth examination of how the participants approached complementary medicines and the framework.
 <!-- Some of the limitations of the study arise due to the methods used. -->
 Further work with a larger representative sample of pharmacists would be required to estimate the prevalence of different approaches to complementary medicines in Australian community pharmacy (e.g. "evidence-based", "proactive", etc).
-It also needs to be noted that the study did not include consumers or pharmacy support staff.
-However, the perspectives of these groups have been explored elsewhere [@Iyer2016a].
+While the study did not include the perspectives of consumers or pharmacy support staff, the perspectives of these groups have been explored elsewhere [@Iyer2016a].
 
 <!-- The study identifies a number of barriers and enablers to the acceptability and feasibility of the framework to the community pharmacists who participated in the study. -->
 The acceptability of the framework to most participants is an important precondition on the successful implementation.
@@ -614,16 +632,25 @@ Equally important are the barriers identified by participants who felt the frame
 Appropriately addressing these barriers will help to shift pharmacists towards an evidence-based and proactive approach to complementary medicines.
 Specific activities that would support this shift include the development of support regarding evidence-based information resources, and evidence-based training on complementary medicines for aimed at both pharmacists and pharmacy support staff.
 
-Several participants indicated that guidance on the availability, strengths and limitations of key evidence-based information resources on complementary medicines would provide help them to implement the framework.
-The confidence and comfort of participants who identified an evidence-based and proactive approach to complementary medicines  "Evidence-based" participants who adopted a proactive approach to complementary medicines 
+Several participants indicated that better access to and confidence with evidence-based information resources on complementary medicines would help 
+Suitable information resources are available and used within community pharmacy (as indicated by other participants).
+This suggests that guidance on the availability, strengths and limitations of key evidence-based information resources available to community pharmacists could aid pharmacists unfamiliar with these resources.
+A second and related activity is the availability of training for pharmacists and pharmacy support staff.
+There is a lot of sponsor-provided training opportunities in community pharmacy for both pharmacists and pharmacy support staff.
+Participants in this study identified the need for independent evidence-based learning opportunities in complementary medicines for both pharmacists and pharmacy support staff.
+Similar needs have been identified in the literature [@Tiralongo2010;@Iyer2016a].
+Learning activities specifically targeting evidence-based health care and the role of pharmacists and pharmacy support staff in providing appropriate advice regarding complementary medicines would facilitate implementation of the framework.
+These learning activities could then feed into longer-term projects such as the development of a career pathway for pharmacy support staff with expertise in providing evidence-based advice regarding complementary medicines.
 
-Recommendations:
+The initiatives outlined above are targeted at pharmacists who identify an evidence-based approach to complementary medicines but experience barriers to taking a more proactive approach to complementary medicines.
+This is likely the most effective and efficient strategy and can be implemented at the same time larger-scale regulatory actions regarding complementary medicines are considered.
+The framework in addition to training activities and further guidance on evidence-based information resources on complementary medicines has the benefit of providing clear guidance on the responsibilities of pharmacists when selling complementary medicines, and building the capacity of pharmacists and pharmacy support staff to deliver evidence-based advice and support to consumers using complementary medicines.
 
-* Move participants towards the upper right quadrant ("EBP", "proactive")
-  - Support regarding information resources
-  - Training: for pharmacists and for pharmacy support staff
-    + Pharmacists: use current skills (not become naturopaths)
-    + Pharmacy support staff: independent evidence-based training
+# Conclusion
+
+The *Framework for pharmacist responsibilities when selling complementary medicines* addresses an important gap in providing specific professional guidance to pharmacists when selling complementary medicines.
+The results of the study demonstrate that the framework will be acceptable to most pharmacists and is feasible to implement with targeted support. 
+
 
 # References
 
