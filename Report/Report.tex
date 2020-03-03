@@ -32,9 +32,6 @@
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
 \usepackage[margin=1in]{geometry}
-\usepackage[style=authoryear-comp,backend=biber,natbib,sortcites=none]{biblatex}
-\addbibresource{Report.bib}
-\addbibresource{library.bib}
 \usepackage{longtable,booktabs}
 % Fix footnotes in tables (requires footnote package)
 \IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{long table}}{}
@@ -56,7 +53,7 @@
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
+\setcounter{secnumdepth}{5}
 % Redefines (sub)paragraphs to behave more like sections
 \ifx\paragraph\undefined\else
 \let\oldparagraph\paragraph
@@ -135,8 +132,9 @@
 
 This is a report for the project \emph{Evaluating the acceptability and
 feasibility of an ethical framework for the sale of complementary
-medicines in community pharmacy} funded by an APSA Research Grant 2019
-and the School of Pharmacy, The University of Queensland.
+medicines in community pharmacy} funded by an Australasian
+Pharmaceutical Society of Australia (APSA) Research Grant 2019 and the
+School of Pharmacy, The University of Queensland.
 
 \bigskip
 
@@ -197,18 +195,18 @@ responsibilities and associated costs on pharmacists when selling
 complementary medicines in comparison to alternative outlets. However,
 the majority of participants felt that the additional responsibilities
 were appropriate and that pharmacies compete in terms of the services
-they provide in addition to cost. Participants identified two important
-areas for targeted support in implementing the framework: additional
-guidance and access to evidence-based information resources on
-complementary medicines and independent evidence-based education and
-training on complementary medicine for pharmacists and pharmacy support
-staff.
+they provide rather than merely cost. Participants identified two
+important areas for targeted support in implementing the framework:
+additional guidance and improved access to evidence-based information
+resources on complementary medicines and independent evidence-based
+education and training on complementary medicine for pharmacists and
+pharmacy support staff.
 
 The \emph{Framework for pharmacist responsibilities when selling
 complementary medicines} addresses an important gap in providing
 specific professional guidance to pharmacists when selling complementary
-medicines. The results of the study demonstrate that the framework will
-be acceptable to most pharmacists and is feasible to implement with
+medicines. The results of the study suggest that the framework will be
+acceptable to most pharmacists and is feasible to implement with
 targeted support.
 
 \newpage 
@@ -221,57 +219,56 @@ targeted support.
 
 \section{Introduction}\label{introduction}
 
-This project seeks to contribute to pharmacy practice by developing
-guidance to pharmacists regarding their responsibilities when selling
-complementary medicines. Complementary medicines are a \$4.9 billion
-dollar industry in Australia, 41\% of which is sold through pharmacies
-\autocite{ComplementaryMedicinesAustralia2018}. Consumers purchase
-complementary medicines from pharmacies due to a trust in the quality of
-the products and the availability of advice.{[}REF{]} There is clear
-recognition that pharmacists should (i) support consumer choice and (ii)
-provide advice that is informed by evidence
-\autocites{InternationalPharmaceuticalFederation2014}{PSA2017}. There
-is, however, very little guidance on what to do when these two
-principles conflict. The conflict arises because many complementary
-medicines lack rigorous evidence of effectiveness and yet can cause harm
-through adverse effects, drug interactions and delayed treatment
-\autocites{Myers2004}{Izzo2009}. Recent reports suggest that pharmacists
-are failing to meet community expectations regarding the advice they
-provide on complementary medicines
-\autocites{Bray2017}{Thompson2017}{Arnold2016}[.][]{King2017}
+Complementary medicines are a \$4.9 billion dollar industry in
+Australia, 41\% of which is sold through pharmacies (Complementary
+Medicines Australia, 2018). Consumers purchase complementary medicines
+from pharmacies due to a trust in the quality of the products and the
+availability of advice (Iyer et al., 2016; Tran et al., 2013a; Traulsen
+\& Noerreslet, 2004). There is clear recognition that pharmacists should
+(i) support consumer choice and (ii) provide advice that is informed by
+evidence (International Pharmaceutical Federation, 2014; The
+Pharmaceutical Society of Australia, 2017). There is, however, very
+little guidance on what to do when these two principles conflict. The
+conflict arises because many complementary medicines lack rigorous
+evidence of effectiveness and yet can cause harm through adverse
+effects, drug interactions and delayed treatment (Izzo \& Ernst, 2009;
+Myers \& Cheras, 2004). Recent reports suggest that pharmacists are
+failing to meet community expectations regarding the advice they provide
+on complementary medicines (Arnold, 2016; Bray, 2017; King, 2017;
+Thompson et al., 2017)
 
-\textcite{SalmanPopattia2018} identify several gaps in the literature
+Salman Popattia et al. (2018) identify several gaps in the literature
 regarding the responsibilities of pharmacists selling complementary
 medicines. The most striking of these is the lack of specific guidance
 for pharmacists on the sale of complementary medicines. The expectations
 of pharmacists and consumers regarding the sale of complementary
-medicines are well described
-\autocites{Iyer2016a}{Tran:2013kh}{Kanjanarach2011}. To the extent that
-ethical considerations are discussed in this literature, the conflict
-between supporting consumer choice, evidence-based practice and business
-considerations are frequently identified but never resolved. Part of the
-problem is the lack of an explicit ethical theory to guide
-decision-making. While the `four principles approach' of bioethical
-principlism is implicit in many discussions, the version that is
-employed focuses on `ethics first-aid': the \emph{identification} of
-ethical conflicts rather than resolution of the conflict
-\autocites{Beauchamp2012}{Pullman2005}
+medicines are well described (Iyer et al., 2016; Kanjanarach et al.,
+2011; Tran et al., 2013b). To the extent that ethical considerations are
+discussed in this literature, the conflict between supporting consumer
+choice, evidence-based practice and business considerations are
+frequently identified but never resolved. Part of the problem is the
+lack of an explicit ethical theory to guide decision-making. While the
+`four principles approach' of bioethical principlism is implicit in many
+discussions, the version that is employed focuses on `ethics first-aid':
+the \emph{identification} of ethical conflicts rather than resolution of
+the conflict (Beauchamp \& Childress, 2012; Pullman, 2005)
 
 The problems associated with the lack of specific guidance for
 pharmacist responsibilities when selling complementary medicines is
-highlighted by the current \emph{Code of ethics for pharmacists}
-\autocite{PSA2017}. While the code provides the advice to support
-consumer choice and to practice in accordance with evidence, it also
-provides the directive that pharmacists will ``only purchase, supply or
-promote any medicine, complementary medicine, herbal remedy or other
-healthcare product where there is credible evidence of efficacy and the
-benefit of use outweighs the risk''. This directive is in contrast with
-current practice in which complementary medicines that lack credible
-evidence of efficacy are frequently purchased and supplied. There is no
-attempt to reconcile this disparity in the professional or academic
-literature---no explicit argument for the directive provided in the
-code, nor a counter-argument defending the routine sale of complementary
-medicines that lack evidence of efficacy in community pharmacy.
+highlighted by the current \emph{Code of ethics for pharmacists} (The
+Pharmaceutical Society of Australia, 2017). While the code provides the
+advice to support consumer choice and to practice in accordance with
+evidence, it also provides the directive that pharmacists will ``only
+purchase, supply or promote any medicine, complementary medicine, herbal
+remedy or other healthcare product where there is credible evidence of
+efficacy and the benefit of use outweighs the risk''. This directive is
+in contrast with current practice in which complementary medicines that
+lack credible evidence of efficacy are frequently purchased and
+supplied. There is no attempt to reconcile this disparity in the
+professional or academic literature---no explicit argument for the
+directive provided in the code, nor a counter-argument defending the
+routine sale of complementary medicines that lack evidence of efficacy
+in community pharmacy.
 
 Salman Popattia and La Caze have developed an ethical framework that
 provides specific guidance to pharmacists regarding their
@@ -295,15 +292,15 @@ public when selling complementary medicines.
 \subsection{Principle-based ethics}\label{principle-based-ethics}
 
 Principle-based ethics, and more specifically, the `four principles
-approach' to bioethics advocated by \textcite{Beauchamp2012}, is
+approach' to bioethics advocated by Beauchamp \& Childress (2012), is
 frequently employed in bioethics and professional ethics in health care.
 The four principles are \emph{respect for autonomy},
 \emph{beneficience}, \emph{non-maleficence}, and \emph{justice}. The
 four principles approach, including the account of \emph{specification}
 adopted within the approach, provides a framework for responding to
 ethical challenges by explicitly seeking to resolve conflicts in general
-principles based on salient details within the context
-\autocite{Richardson2000}.
+principles based on salient details within the context (Richardson,
+2000).
 
 The specific responsibilities provided by the framework were developed
 by considering key ethical principles in pharmacy practice such as the
@@ -323,16 +320,16 @@ two key points. First, complementary medicines are regulated in
 Australia (and most regions in the world) as being sufficiently safe for
 self-care. Most complementary medicines available in community pharmacy
 are \emph{listed} on the Australian Register of Therapeutic Goods
-\autocite{TGA2019_listed}. This means that the complementary medicine
-contains items that are on a list of low-risk ingredients, is
-manufactured according to the principles of Good Manufacturing Practice,
-and the only claims made regarding therapeutic use relate to the
-maintenance and enhancement of health for non-serious, self-limiting
-conditions \autocite{TGA2019_listed}. Listed medicines are available
-from a wide range of outlets, including pharmacies, health food stores,
-and supermarkets. Many consumers choose to use complementary medicines
-and are likely to continue to do so even if they were not available in
-community pharmacies.
+(Therapeutic Goods Administration, 2019). This means that the
+complementary medicine contains items that are on a list of low-risk
+ingredients, is manufactured according to the principles of Good
+Manufacturing Practice, and the only claims made regarding therapeutic
+use relate to the maintenance and enhancement of health for non-serious,
+self-limiting conditions (Therapeutic Goods Administration, 2019).
+Listed medicines are available from a wide range of outlets, including
+pharmacies, health food stores, and supermarkets. Many consumers choose
+to use complementary medicines and are likely to continue to do so even
+if they were not available in community pharmacies.
 
 Second, pharmacists are highly accessible health professionals with the
 training and skills to provide guidance on the appropriate use of
@@ -342,19 +339,18 @@ guidance regarding actual or potential adverse reactions. Pharmacists
 tend to focus on this role in relation to complementary medicines and
 consumers frequently identify this support as one of the drivers for
 purchasing complementary medicines from community pharmacies
-\autocites{Olatunde2010}{Kanjanarach2011}.
+(Kanjanarach et al., 2011; Olatunde et al., 2010).
 
 These points provide a \emph{prima facie} argument in support of the
 sale of complementary medicines in community pharmacy. However, some
 pharmacists are hesitant to discuss complementary medicines with
 consumers, and some provide inaccurate or misleading information
-regarding the likely benefits of complementary medicines
-\autocites{SalmanPopattia2018}{Arnold2016}{Bray2017}. The specific
-responsibilities of pharmacists when selling complementary medicines
-outlined below seek to address these issues. The framework identifies
-the responsibilities that pharmacists must meet in order to make a
-positive contribution to health outcomes by selling complementary
-medicines.
+regarding the likely benefits of complementary medicines (Arnold, 2016;
+Bray, 2017; Salman Popattia et al., 2018). The specific responsibilities
+of pharmacists when selling complementary medicines outlined below seek
+to address these issues. The framework identifies the responsibilities
+that pharmacists must meet in order to make a positive contribution to
+health outcomes by selling complementary medicines.
 
 \subsection{Specific responsibilities}\label{specific-responsibilities}
 
@@ -373,10 +369,8 @@ to provide that advice and to provide sufficient information to the
 consumer such that they can make an informed decision with regard to the
 purchase of the complementary medicine. Since some consumers might
 refuse the offer of advice from a pharmacy, it is the responsibility of
-the pharmacist to have procedures in place to identify and act if a
-consumer is at significant risk of harm from complementary medicines.
-Further advice regarding the responsibilities outlined in the framework
-are available in Appendix A.
+the pharmacist to have procedures in place to identify and intervene if
+a consumer is at significant risk of harm from complementary medicines.
 
 \textbf{\emph{Key responsibilities of pharmacists selling complementary
 medicines}}
@@ -428,17 +422,17 @@ The workshops employed focus group methods to engage participants in
 discussion regarding the sale of complementary medicines in community
 pharmacies. Focus groups provide an opportunity to investigate complex
 behaviours and motivations, to learn more about the degree of consensus
-on a topic, and to gain feedback regarding new ideas
-\autocites{Basch1987}{Knodel1993}. They are especially helpful to
-understand group norms, meanings and processes \autocite{BarbourFG2011}.
-Workshops were offered inside and outside of usual business hours using
-video-conferencing software, Zoom. Conducting focus groups via
-video-conference provided an opportunity to recruit participants from a
-large geographical area. A number of strategies were employed to support
-the success of conducting the focus group in an online environment,
-these included seeking to arrange groups of 4--6 participants (limiting
-larger groups), enabling video feeds and offering alternatives for those
-with lower internet speeds \autocite{Gaiser2017}.
+on a topic, and to gain feedback regarding new ideas (Basch, 1987;
+Knodel, 1993). They are especially helpful to understand group norms,
+meanings and processes (Barbour, 2011). Workshops were offered inside
+and outside of usual business hours using video-conferencing software,
+Zoom. Conducting focus groups via video-conference provided an
+opportunity to recruit participants from a large geographical area. A
+number of strategies were employed to support the success of conducting
+the focus group in an online environment, these included seeking to
+arrange groups of 4--6 participants (limiting larger groups), enabling
+video feeds and offering alternatives for those with lower internet
+speeds (Abrams \& Gaiser, 2017).
 
 Participants received information about the framework prior to the
 workshop and were asked to complete a short pre-workshop survey. The
@@ -468,12 +462,12 @@ summary that was sent to participants for comment.
 The workshops and interviews were video and audio recorded. Focus groups
 and interviews were transcribed verbatim. The transcripts were analysed
 using the thematic analysis methods described by Braun and Clarke
-\autocite*{Braun2016}. An inductive approach to coding was employed, and
-themes were developed with a focus on addressing the research questions
-in the study. Two investigators, AL and ASP, familiarized themselves
-with the data and developed an initial coding scheme. This was refined
-through discussion early in the analysis and then used to code the focus
-groups and interviews. AL and ASP then identified and refine themes
+(2006). An inductive approach to coding was employed, and themes were
+developed with a focus on addressing the research questions in the
+study. Two investigators, AL and ASP, familiarized themselves with the
+data and developed an initial coding scheme. This was refined through
+discussion early in the analysis and then used to code the focus groups
+and interviews. AL and ASP then identified and refine themes
 individually first, and then as a group that included LH.
 
 All three investigators have experience in pharmacy ethics. AL has
@@ -540,7 +534,7 @@ The ways in which participants \emph{approached complementary
 medicines}, \emph{approached evidence}, and \emph{navigated practice in
 a retail environment} inform how they viewed their responsibilities in
 relation to complementary medicines within the context of community
-pharmacy practice. How participants approaches these key themes also
+pharmacy practice. How participants approached these key themes also
 informed their views on the acceptability and feasibility of the
 proposed framework. Each of these themes are briefly introduced below.
 Subsequent sections provide further discussion regarding how participant
@@ -852,7 +846,7 @@ community pharmacies.
 \begin{quote}
 I think the reason that pharmacies should sell their complementary
 medicine is not because there is a market. I think people, instead of
-going to the health food store to get their {[}comple?{]} medicine, they
+going to the health food store to get their complementary medicine, they
 should come to the pharmacy because there is a better chance that the
 pharmacies can find out if there's any interaction for people with some
 actual medications. But I know most of my customers. I know exactly what
@@ -1092,13 +1086,13 @@ specific advice on the responsibilities of pharmacists when selling
 complementary medicines, the variation present in the demographic
 details of the participants, and the features of the qualitative methods
 that permit an in-depth examination of how the participants approached
-complementary medicines and the framework. Further work with a larger
-representative sample of pharmacists would be required to estimate the
-prevalence of different approaches to complementary medicines in
-Australian community pharmacy (e.g. ``evidence-based'', ``proactive'',
-etc). While the study did not include the perspectives of consumers or
-pharmacy support staff, the perspectives of these groups have been
-explored elsewhere \autocite{Iyer2016a}.
+complementary medicines and the framework. Further quantitative work
+with a larger representative sample of pharmacists would be required to
+estimate the prevalence of different approaches to complementary
+medicines in Australian community pharmacy (e.g. ``evidence-based'',
+``proactive'', etc). While the study did not include the perspectives of
+consumers or pharmacy support staff, the perspectives of these groups
+have been explored elsewhere (Iyer et al., 2016).
 
 The acceptability of the framework to most participants is an important
 precondition on the successful implementation. Participants who are
@@ -1110,12 +1104,12 @@ barriers will help to shift pharmacists towards an evidence-based and
 proactive approach to complementary medicines. Specific activities that
 would support this shift include the development of support regarding
 evidence-based information resources, and evidence-based training on
-complementary medicines for aimed at both pharmacists and pharmacy
-support staff.
+complementary medicines aimed at both pharmacists and pharmacy support
+staff.
 
 Several participants indicated that better access to and confidence with
 evidence-based information resources on complementary medicines would
-help Suitable information resources are available and used within
+help. Suitable information resources are available and used within
 community pharmacy (as indicated by other participants). This suggests
 that guidance on the availability, strengths and limitations of key
 evidence-based information resources available to community pharmacists
@@ -1126,15 +1120,14 @@ opportunities in community pharmacy for both pharmacists and pharmacy
 support staff. Participants in this study identified the need for
 independent evidence-based learning opportunities in complementary
 medicines for both pharmacists and pharmacy support staff. Similar needs
-have been identified in the literature
-\autocites{Tiralongo2010}{Iyer2016a}. Learning activities specifically
-targeting evidence-based health care and the role of pharmacists and
-pharmacy support staff in providing appropriate advice regarding
-complementary medicines would facilitate implementation of the
-framework. These learning activities could then feed into longer-term
-projects such as the development of a career pathway for pharmacy
-support staff with expertise in providing evidence-based advice
-regarding complementary medicines.
+have been identified in the literature (Iyer et al., 2016; Tiralongo et
+al., 2010). Learning activities specifically targeting evidence-based
+health care and the role of pharmacists and pharmacy support staff in
+providing appropriate advice regarding complementary medicines would
+facilitate implementation of the framework. These learning activities
+could then feed into longer-term projects such as the development of a
+career pathway for pharmacy support staff with expertise in providing
+evidence-based advice regarding complementary medicines.
 
 The initiatives outlined above are targeted at pharmacists who identify
 an evidence-based approach to complementary medicines but experience
@@ -1158,6 +1151,163 @@ medicines. The results of the study demonstrate that the framework will
 be acceptable to most pharmacists and is feasible to implement with
 targeted support.
 
-\printbibliography[title=References]
+\section*{Acknowledgements}\label{acknowledgements}
+\addcontentsline{toc}{section}{Acknowledgements}
+
+This project was conducted thanks to the funding provided by the
+Australasian Pharmaceutical Science Association (APSA) Research Grant
+2019 and the School of Pharmacy, The University of Queensland.
+
+The investigators would like to thank the community pharmacists who gave
+their time to share their expertise for the project. Thanks also to
+Chris Campbell, Carolyn Clementson, and Marlene Nguyen who distributed
+invitations to participate in the project through their professional
+networks.
+
+\section*{References}\label{references}
+\addcontentsline{toc}{section}{References}
+
+\hypertarget{refs}{}
+\hypertarget{ref-Gaiser2017}{}
+Abrams, K. M., \& Gaiser, T. J. (2017). Online Focus Groups. In
+\emph{The sage handbook of online research methods} (pp. 435--449). SAGE
+Publications Ltd. \url{https://doi.org/10.4135/9781473957992.n25}
+
+\hypertarget{ref-Arnold2016}{}
+Arnold, A. (2016). \emph{Should you trust your pharmacist?}
+\url{http://www.abc.net.au/radionational/programs/backgroundbriefing/should-you-trust-your-pharmacist/7237496}
+
+\hypertarget{ref-BarbourFG2011}{}
+Barbour, R. (2011). Focus groups. In \emph{Introducing qualitative
+research} (pp. 132--148).
+
+\hypertarget{ref-Basch1987}{}
+Basch, C. E. (1987). Focus Group Interview: An Underutilized Research
+Technique for Improving Theory and Practice in Health Education.
+\emph{Health Education \& Behavior}, \emph{14}(4), 411--448.
+\url{https://doi.org/10.1177/109019818701400404}
+
+\hypertarget{ref-Beauchamp2012}{}
+Beauchamp, T. L., \& Childress, J. F. (2012). \emph{Principles of
+Biomedical Ethics} (7th ed.). Oxford University Press.
+
+\hypertarget{ref-Braun2016}{}
+Braun, V., \& Clarke, V. (2006). Using thematic analysis in psychology.
+\emph{Qualitative Research in Psychology}, \emph{3}(2), 77--101.
+\url{https://doi.org/10.1191/1478088706qp063oa}
+
+\hypertarget{ref-Bray2017}{}
+Bray, K. (2017). \emph{Is your pharmacist giving you the right advice?}
+\url{https://www.choice.com.au/health-and-body/health-practitioners/doctors/articles/pharmacy-advice-for-stress}
+
+\hypertarget{ref-ComplementaryMedicinesAustralia2018}{}
+Complementary Medicines Australia. (2018). \emph{Australia's
+Complementary Medicines Industry Snapshot 2018} {[}Technical report{]}.
+\href{http://www.cmaustralia.org.au/resources/Documents/Australian\%20Complementary\%20Medicines\%20Industry\%20snapshot\%202018_English.pdf}{http://www.cmaustralia.org.au/resources/Documents/Australian Complementary Medicines Industry snapshot 2018\_English.pdf}
+
+\hypertarget{ref-InternationalPharmaceuticalFederation2014}{}
+International Pharmaceutical Federation. (2014). \emph{Codes of ethics
+for pharmacists} (August; pp. 3--5). \url{www.fip.org/statements}
+
+\hypertarget{ref-Iyer2016a}{}
+Iyer, P., McFarland, R., \& La Caze, A. (2016). Expectations and
+responsibilities regarding the sale of complementary medicines in
+pharmacies: perspectives of consumers and pharmacy support staff.
+\emph{International Journal of Pharmacy Practice}, \emph{epub ahead}.
+\url{https://doi.org/10.1111/ijpp.12315}
+
+\hypertarget{ref-Izzo2009}{}
+Izzo, A. A., \& Ernst, E. (2009). Interactions between herbal medicines
+and prescribed drugs: An updated systematic review. \emph{Drugs},
+\emph{69}(13), 1777--1798.
+\url{https://doi.org/10.2165/00003495-200161150-00002}
+
+\hypertarget{ref-Kanjanarach2011}{}
+Kanjanarach, T., Krass, I., \& Cumming, R. G. (2011). Australian
+community pharmacists' practice in complementary medicines: A structural
+equation modeling approach. \emph{Patient Education and Counseling},
+\emph{83}(3), 352--359. \url{https://doi.org/10.1016/j.pec.2011.05.003}
+
+\hypertarget{ref-King2017}{}
+King, S. (2017). \emph{Review of Pharmacy Renumeration and Regulation:
+Final Report} {[}Technical report{]}.
+\url{http://www.health.gov.au/internet/main/publishing.nsf/content/review-pharmacy-remuneration-regulation}
+
+\hypertarget{ref-Knodel1993}{}
+Knodel, J. (1993). The Design and Analysis of Focus Group Studies: A
+Practical Approach. In \emph{Successful focus groups: Advancing the
+state of the art} (pp. 35--50). SAGE Publications, Inc.
+\url{https://doi.org/10.4135/9781483349008.n3}
+
+\hypertarget{ref-Myers2004}{}
+Myers, S. P., \& Cheras, P. A. (2004). The other side of the coin:
+Safety of complementary and alternative medicine. \emph{Medical Journal
+of Australia}, \emph{181}(4), 222--225.
+\href{https://doi.org/mye10108_fm\%20\%5Bpii\%5D}{https://doi.org/mye10108\_fm {[}pii{]}}
+
+\hypertarget{ref-Olatunde2010}{}
+Olatunde, S., Boon, H., Hirschkorn, K., Welsh, S., \& Bajcar, J. (2010).
+Roles and responsibilities of pharmacists with respect to natural health
+products: Key informant interviews. \emph{Research in Social \&
+Administrative Pharmacy}, \emph{6}(1), 63--69.
+\url{https://doi.org/10.1016/j.sapharm.2009.02.004}
+
+\hypertarget{ref-Pullman2005}{}
+Pullman, D. (2005). Ethics first aid: Reframing the role of
+``principlism'' in clinical ethics education and practice. \emph{Journal
+of Clinical Ethics}, \emph{16}(3), 223--229.
+
+\hypertarget{ref-Richardson2000}{}
+Richardson, H. S. (2000). Specifying, Balancing, and Interpreting
+Bioethical Principles. \emph{The Journal of Medicine and Philosophy},
+\emph{25}(3), 285--307.
+\url{https://doi.org/10.1076/0360-5310(200006)25:3;1-h;ft285}
+
+\hypertarget{ref-SalmanPopattia2018}{}
+Salman Popattia, A., La Caze, A., Winch, S., \& La Caze, A. (2018).
+Ethical responsibilities of pharmacists when selling complementary
+medicines. \emph{International Journal of Pharmacy Practice},
+\emph{26}(2), 93--103. \url{https://doi.org/10.1111/ijpp.12425}
+
+\hypertarget{ref-PSA2017}{}
+The Pharmaceutical Society of Australia. (2017). \emph{Code of ethics
+for pharmacists} (p. 52) {[}Technical report{]}.
+\url{https://www.psa.org.au/membership/ethics}
+
+\hypertarget{ref-TGA2019_listed}{}
+Therapeutic Goods Administration. (2019). \emph{Listed complementary
+medicines}. \url{https://www.tga.gov.au/listed-complementary-medicines}
+
+\hypertarget{ref-Thompson2017}{}
+Thompson, G., Russell, A., \& Fallon, M. (2017). \emph{SWALLOWING IT}.
+\url{http://www.abc.net.au/4corners/stories/2017/02/13/4616948.htm}
+
+\hypertarget{ref-Tiralongo2010}{}
+Tiralongo, E., Braun, L. a L., Wilkinson, J. J. M., Spizer, O., Bailey,
+M., Poole, S., \& Dooley, M. (2010). Exploring the Integration of
+Complementary Medicines into Australian Pharmacy Practice with a Focus
+on Different Practice Settings and Background Knowledge. \emph{Journal
+of Complementary and Integrative Medicine}, \emph{7}(1).
+\url{https://doi.org/10.2202/1553-3840.1411}
+
+\hypertarget{ref-Tran2013}{}
+Tran, S., Calabretto, J.-P., \& Sorich, M. (2013a). Consumer-pharmacist
+interactions around complementary medicines: agreement between
+pharmacist and consumer expectations, satisfaction and pharmacist
+influence. \emph{The International Journal of Pharmacy Practice},
+\emph{21}(6), 378--385. \url{https://doi.org/10.1111/ijpp.12027}
+
+\hypertarget{ref-Tran:2013kh}{}
+Tran, S., Calabretto, J.-P., \& Sorich, M. (2013b). Consumer-pharmacist
+interactions around complementary medicines: agreement between
+pharmacist and consumer expectations, satisfaction and pharmacist
+influence. \emph{The International Journal of Pharmacy Practice},
+\emph{21}(6), 378--385. \url{https://doi.org/10.1111/ijpp.12027}
+
+\hypertarget{ref-Traulsen2004}{}
+Traulsen, J. M., \& Noerreslet, M. (2004). The new consumer of
+medicine--the pharmacy technicians' perspective. \emph{Pharmacy World \&
+Science}, \emph{26}(4), 203--207.
+\url{https://doi.org/10.1023/B:PHAR.0000035883.44707.6e}
 
 \end{document}
