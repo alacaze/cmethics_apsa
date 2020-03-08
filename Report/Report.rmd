@@ -85,7 +85,7 @@ cat("-------------------------------- ---------------------------------------
 \input{titlepage}
 
 
-This is a report for the project *Evaluating the acceptability and feasibility of an ethical framework for the sale of complementary medicines in community pharmacy* funded by an Australasian Pharmaceutical Society of Australia (APSA) Research Grant 2019 and the School of Pharmacy, The University of Queensland.
+This is a report for the project *Evaluating the acceptability and feasibility of an ethical framework for the sale of complementary medicines in community pharmacy* funded by an Australasian Pharmaceutical Society of Australia (APSA) Research Grant 2019 with support from the School of Pharmacy, The University of Queensland.
 
 \bigskip
 
@@ -278,8 +278,8 @@ Since some consumers might refuse the offer of advice from a pharmacy, it is the
 
 ***Key responsibilities of pharmacists selling complementary medicines***
 
-1. Pharmacists should provide evidence-based recommendations to the consumers regarding complementary medicines
-2. Pharmacists should train all staff in a pharmacy and ensure that they provide evidence-based recommendations regarding complementary medicines and seek advice of a pharmacist when required
+1. Pharmacists should provide evidence-based recommendations to consumers regarding complementary medicines
+2. Pharmacists should train all staff in a pharmacy to ensure that they provide evidence-based recommendations regarding complementary medicines and refer to a pharmacist when required
 3. When providing advice, pharmacists should provide sufficient information for consumers to make informed decisions regarding complementary medicines
 4. Pharmacists should setup the pharmacy so that consumers are provided an offer of advice from a pharmacist and pharmacists should be available to provide that advice
 5. Pharmacists must be vigilant for possible harms related to complementary medicines and intervene if risk of harm is significant
